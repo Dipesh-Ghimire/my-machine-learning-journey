@@ -1,0 +1,16 @@
+# Core Libraries
+numpy                # For numerical computations
+pandas               # For data manipulation and handling
+scikit-learn         # For machine learning algorithms and models
+scipy                # For scientific computing (used in optimization, clustering)
+
+# Visualization Libraries
+matplotlib           # For data visualization
+seaborn              # For statistical data visualization
+
+# Jupyter Notebooks
+jupyter              # For running code in Jupyter notebooks
+
+# Additional Libraries for specific algorithms or utilities
+statsmodels          # For statistical models (used in linear regression analysis)
+xgboost              # For gradient boosting algorithms (if you're using it for boosting methods)
